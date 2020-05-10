@@ -1,3 +1,5 @@
 Mango
-Jackfruit
+Apple
 Banana
+Chikoo
+Guava
